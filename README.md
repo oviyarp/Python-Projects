@@ -1,12 +1,9 @@
 # Python-Projects
-Paper Scissor Rock script
-#Ex 4.17
+
 #To program scissor-rock-paper game:
-#Oviya Ramachandran Pavanan
-#09/26/2021
+
 
 import random
-
 #give user input
 user = eval(input("scissor (0), rock (1), paper (2): "))
 
